@@ -1,0 +1,20 @@
+.background{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images2/server332.jpg);
+    height: 60vh ;
+}
+#sec{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images2/banner.jpg);
+    height: 25vh ;
+    border-radius: 10px;
+    color: white;
+}
+#cont{
+    color: white;
+}
+
+#reg{
+    border-radius: 10px;
+}
+#login{
+    border-radius: 30px;
+}

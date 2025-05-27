@@ -1,0 +1,46 @@
+.pic{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/develop.jpg);
+    height: 95vh;
+    color: white;
+   
+}
+.text{
+    color: white;
+    margin-left: 40px;
+    position: relative;
+    top: 150px;
+}
+.box1{
+    width: 500px;
+   height: 500px;
+   border-radius: 100px;
+   border: 3px  solid white;
+   
+}
+.box{
+    color: black;
+}
+#mid{
+    text-align: center;
+   color: black;
+}
+.sec{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/program.jpg);
+    width: 500px;
+    height: 500px;
+    border-radius: 100px;
+    border: 3px  solid white;
+    text-align: center;
+}
+   #project{
+    color: white;
+   }
+   .bg{
+    margin-left: 30px;
+   }
+  .footer{
+    color: white;
+    margin-left: 60rem;
+  }
+
+  
