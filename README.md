@@ -45,14 +45,8 @@ cd a'i-crafted
 2. Navigate into the project folder:
 *bash cd portfolio
 3. Open the **about.html** file in your browser to view the website:
-***bash open index.html
-UNE
-ichpad
-67
-68
-69
-70
-0040
+***bash open about.html
+   
 4. Alternatively, you can upload the project to any static hosting service (e-g-, GitHub Pages, Netlify) to view it live.
 
 ## usage
