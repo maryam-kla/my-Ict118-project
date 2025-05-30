@@ -44,8 +44,8 @@ git clone https://github.com/maryam-kla/my-Ict118-project/blob/main/README.md
 cd a'i-crafted
 2. Navigate into the project folder:
 *bash cd portfolio
-3. Open the **about.html** file in your browser to view the website:
-***bash open about.html
+3. Open the **index.html** file in your browser to view the website:
+***bash open index.html
    
 4. Alternatively, you can upload the project to any static hosting service (e-g-, GitHub Pages, Netlify) to view it live.
 
